@@ -1,7 +1,7 @@
 ![Technical Issue Resolution](./postmorterm_technical.webp)
 
 # Issue Summary
-Duration of the Outage: The outage started at 11:45 AM and was resolved by 12:45 PM West African Time.
+Duration of the Outage: The outage started at 11:45 AM and was resolved by 12:45 PM Central African Time.
 
 # Impact:
 The site was not listening on port 80, causing all users to be unable to access the website.
